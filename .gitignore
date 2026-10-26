@@ -1,0 +1,9 @@
+cat > .gitignore <<'EOF'
+out/
+*.class
+sources.txt
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+EOF
